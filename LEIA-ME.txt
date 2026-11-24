@@ -1,0 +1,17 @@
+ONE-PAGES POR CASE — Computação em Nuvem (distribuição aos alunos)
+TURMA A
+==================================================================
+Entregue a cada grupo APENAS a pasta do seu case. Cada pasta tem um
+arquivo index.html autocontido, pronto para publicar em um servidor
+web (ex.: Amazon EC2). Veja o briefing no documento LAB11.
+
+  case1_tramasul   -> TramaSul Têxtil        (Têxtil / Vestuário)
+  case2_cafeserra  -> Cooperativa CaféSerra  (Cafeicultura / Cooperativa)
+  case3_dermapura  -> DermaPura Cosméticos   (Cosméticos / Higiene Pessoal)
+  case4_pagaja     -> PagaJá                 (Fintech / Meios de Pagamento)
+  case5_aguaviva   -> Companhia ÁguaViva     (Saneamento / Água)
+
+
+No final do index.html há a constante INSTANCE_LABEL e um rodapé que
+mostra qual instância serviu a página — use isso para visualizar o
+servidor AWS.
